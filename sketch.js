@@ -13,11 +13,7 @@ function draw() {
 	line(240, 143, 250, 200);
 	ellipse(240, 143, 8, 8);
 
-	//Arm2
-
-
-
-	noStroke();
+  noStroke();
 
   fill(16, 15, 16);
 	//Nek
